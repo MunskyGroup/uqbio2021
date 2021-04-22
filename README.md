@@ -4,7 +4,7 @@
 
 ## Repository for the 1st Annual Undergraduate Quantitative Biology (UQ-bio) Summer School.
 
-Authors: Dr. Brian Munsky, Michael May, Linda Forero, Luis Aguilera, William Raymond, Zachary, and Huy D. Vo.
+Authors: Dr. Brian Munsky, Michael May, Linda Forero, Luis Aguilera, William Raymond, Zachary Fox, and Huy D. Vo.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
