@@ -20,3 +20,27 @@ This repository contains the materials for the 1st Annual Undergraduate Quantita
 * Module_3: Stochastic Simulations of Single-Cell Gene Regulatory Processes (June 21 – 25).
 * Module_4: Master Equation Analyses of Single-Cell Gene Regulatory Processes (June 28 – July 2).
 * Module_5: Monte Carlo Methods to Infer Models for Noisy Single-Cell Processes (July 5 – 9).
+
+## Live tutorials
+
+* Live Tutorial 1a– Basics of loading and manipulating images in Python
+(Will). Tuesday, June 1 9:30 – 11am.
+* Live Tutorial 1b – PySB (Carlos Lopez)
+
+* Live Tutorial 2a – Single-particle tracking in Python (Luis)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1FcudIyndrXDOmYadUXlPgDOIP6yNP0ZZ?usp=sharing)
+
+* Live Tutorial 2b – Single-cell segmentation in Python (Zach)
+
+* Live Tutorial 3a – Basic Statistical Analyses (Huy)
+* Live Tutorial 3b – Machine Learning (Will/Zach)
+
+* Tutorial 4a – Write your own stochastic simulation (Brian)
+* Tutorial 4b – TASEP Models (Will/Luis)
+
+* Tutorial 5a – Writing and Running an FSP analysis (Michael)
+* Tutorial 5b – Computing Likelihood of Single-cell data using FSP (Zach/Huy)
+
+* Tutorial 6a – Writing and Running an MCMC analysis (Huy/Luis)
+* Tutorial 6b – Using Fisher Information for Single-cell Experiment Design (Zach/Huy)
