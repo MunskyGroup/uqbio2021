@@ -15,7 +15,7 @@ This repository contains the materials for the 1st Annual Undergraduate Quantita
 ## Modules
 
 * Module_0: Basic Scientific Computing in Python (June 1-4).
-  * Python basics (int, str, iterables, slicing)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/167EXFCoYCTcqGqljwddWRF1nwTTc_eig#scrollTo=9_w6sI7q3SUT)
+  * Python basics (int, str, iterables, slicing)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/167EXFCoYCTcqGqljwddWRF1nwTTc_eig?usp=sharing)
 * Module_1: Single-Cell Optical Microscopy Experiments and Image Processing (June 7 – 11).
 * Module_2: Multivariable Statistics and Machine Learning for Single-Cell Data (June 14 – 18).
 * Module_3: Stochastic Simulations of Single-Cell Gene Regulatory Processes (June 21 – 25).
