@@ -24,12 +24,10 @@ This repository contains the materials for the 1st Annual Undergraduate Quantita
 ## Live tutorials
 
 * Live Tutorial 1a– Basics of loading and manipulating images in Python
-(Will). Tuesday, June 1 9:30 – 11am.
+(Will).
 * Live Tutorial 1b – PySB (Carlos Lopez)
 
-* Live Tutorial 2a – Single-particle tracking in Python (Luis)
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1FcudIyndrXDOmYadUXlPgDOIP6yNP0ZZ?usp=sharing)
+* Live Tutorial 2a – Single-particle tracking in Python (Luis)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1FcudIyndrXDOmYadUXlPgDOIP6yNP0ZZ?usp=sharing)
 
 * Live Tutorial 2b – Single-cell segmentation in Python (Zach)
 
