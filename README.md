@@ -23,7 +23,8 @@ This repository contains the materials for the 1st Annual Undergraduate Quantita
   * Python basics 7 (Visualization with matplotlib)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1hilQWOei8M1RJA5lJAX4Ea3i62Wv9eVi?usp=sharing)
 
 * Module_1: Bootcamp Basics to get Started with Scientific Computing in Python (June 1-4).
-  * Live Tutorial 1a - Basic Image manipulation in a Python interactive notebook (Will)
+  * Live Tutorial 1a - Basic Image manipulation in a Python interactive notebook (Luis)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1o3JJE4EjfW9P5ZITEeS5p8Ui60xV3etK?usp=sharing)
   * Live Tutorial 1b – PySB (Carlos Lopez)
 
 * Module_2: Introduction to Single-Cell Optical Microscopy Experiments and Image Processing (June 7 – 11).
@@ -36,7 +37,7 @@ This repository contains the materials for the 1st Annual Undergraduate Quantita
 
 * Module_4: Introduction to Stochastic Simulations of Single-Cell Gene Regulatory Processes (June 21 – 25).
   * Tutorial 4a – Write your own stochastic simulation (Brian)
-  * Tutorial 4b – TASEP Models (Will/Luis)
+  * Tutorial 4b – TASEP Models (Will)
 
 * Module_5: Introduction to Master Equation Analyses of Single-Cell Gene Regulatory Processes (June 28 – July 2).
   * Tutorial 5a – Writing and Running an FSP analysis (Michael)
