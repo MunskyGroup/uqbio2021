@@ -33,7 +33,7 @@ This repository contains the materials for the 1st Annual Undergraduate Quantita
 
 * Module_3: Introduction to Multivariable Statistics and Machine Learning for Single-Cell Data (June 14 – 18).
   * Live Tutorial 3a – Basic Statistical Analyses (Huy)
-  * Live Tutorial 3b – Machine Learning (Will/Zach)
+  * Live Tutorial 3b – Machine Learning (Will/Zach) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1SOR-9YmcLehQyIIDKJZW6kAtcjhKwn2O?usp=sharing)
 
 * Module_4: Introduction to Stochastic Simulations of Single-Cell Gene Regulatory Processes (June 21 – 25).
   * Tutorial 4a – Write your own stochastic simulation (Brian)
