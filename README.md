@@ -46,4 +46,5 @@ This repository contains the materials for the 1st Annual Undergraduate Quantita
 * Module_6: Introduction to Monte Carlo Methods to Infer Models for Noisy Single-Cell
 Processes (July 5 – 9).
   * Tutorial 6a – Writing and Running an MCMC analysis (Huy/Luis)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1zc5cJG9pnuMEMxfiYWYRip78sAbd8jzm?usp=sharing)
   * Tutorial 6b – Using Fisher Information for Single-cell Experiment Design (Zach/Huy)
