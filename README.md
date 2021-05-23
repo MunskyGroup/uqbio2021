@@ -14,7 +14,7 @@ This repository contains the materials for the 1st Annual Undergraduate Quantita
 
 ## Modules
 
-* Module_0: Introduction to Python w/ Example notebooks (before Summer School)
+* Module_0: Bootcamp Basics to get Started with Scientific Computing in Python (June 1-4).
   * Python basics 1 (int, str, iterables, slicing)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/167EXFCoYCTcqGqljwddWRF1nwTTc_eig?usp=sharing)
   * Python basics 2 (loops, ranges, functions, lambdas, list comprehension)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1oMiuuyT0X_UBt9M0mU4klC_WTXCs2XOq?usp=sharing)
   * Python basics 3 (importing packages, classes/modules, os navigation, reading files)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1SxDI--nHoP7tkq9tMBVcvmqSD8NoZLOo?usp=sharing)
@@ -22,29 +22,28 @@ This repository contains the materials for the 1st Annual Undergraduate Quantita
   * Python basics 6 (Colab Enviroment setup and navigation)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Z4KaQvTRLPsZ8-OHz7RzpieT3mgZVi1Q?usp=sharing)
   * Python basics 7 (Visualization with matplotlib)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1hilQWOei8M1RJA5lJAX4Ea3i62Wv9eVi?usp=sharing)
 
-* Module_1: Bootcamp Basics to get Started with Scientific Computing in Python (June 1-4).
-  * Live Tutorial 1a - Basic Image manipulation in a Python interactive notebook (Luis)
+  * Live Tutorial 0a - Basic Image manipulation in a Python interactive notebook (Luis)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1o3JJE4EjfW9P5ZITEeS5p8Ui60xV3etK?usp=sharing)
-  * Live Tutorial 1b – PySB (Carlos Lopez)
+  * Live Tutorial 0b – PySB (Carlos Lopez)
 
-* Module_2: Introduction to Single-Cell Optical Microscopy Experiments and Image Processing (June 7 – 11).
-  * Live Tutorial 2a – Single-particle tracking in Python (Luis)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1FcudIyndrXDOmYadUXlPgDOIP6yNP0ZZ?usp=sharing)
-  * Live Tutorial 2b – Single-cell segmentation in Python (Zach)
+* Module_1: Introduction to Single-Cell Optical Microscopy Experiments and Image Processing (June 7 – 11).
+  * Live Tutorial 1a – Single-particle tracking in Python (Luis)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1FcudIyndrXDOmYadUXlPgDOIP6yNP0ZZ?usp=sharing)
+  * Live Tutorial 1b – Single-cell segmentation in Python (Zach)
 
-* Module_3: Introduction to Multivariable Statistics and Machine Learning for Single-Cell Data (June 14 – 18).
-  * Live Tutorial 3a – Basic Statistical Analyses (Huy)
-  * Live Tutorial 3b – Machine Learning (Will/Zach) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1SOR-9YmcLehQyIIDKJZW6kAtcjhKwn2O?usp=sharing)
+* Module_2: Introduction to Multivariable Statistics and Machine Learning for Single-Cell Data (June 14 – 18).
+  * Live Tutorial 2a – Basic Statistical Analyses (Huy)
+  * Live Tutorial 2b – Machine Learning (Will/Zach) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1SOR-9YmcLehQyIIDKJZW6kAtcjhKwn2O?usp=sharing)
 
-* Module_4: Introduction to Stochastic Simulations of Single-Cell Gene Regulatory Processes (June 21 – 25).
-  * Tutorial 4a – Write your own stochastic simulation (Brian)
-  * Tutorial 4b – TASEP Models (Will)
+* Module_3: Introduction to Stochastic Simulations of Single-Cell Gene Regulatory Processes (June 21 – 25).
+  * Tutorial 3a – Write your own stochastic simulation (Brian)
+  * Tutorial 3b – TASEP Models (Will)
 
-* Module_5: Introduction to Master Equation Analyses of Single-Cell Gene Regulatory Processes (June 28 – July 2).
-  * Tutorial 5a – Writing and Running an FSP analysis (Michael)
-  * Tutorial 5b – Computing Likelihood of Single-cell data using FSP (Zach/Huy)
+* Module_4: Introduction to Master Equation Analyses of Single-Cell Gene Regulatory Processes (June 28 – July 2).
+  * Tutorial 4a – Writing and Running an FSP analysis (Michael)
+  * Tutorial 4b – Computing Likelihood of Single-cell data using FSP (Zach/Huy)
 
-* Module_6: Introduction to Monte Carlo Methods to Infer Models for Noisy Single-Cell
+* Module_5: Introduction to Monte Carlo Methods to Infer Models for Noisy Single-Cell
 Processes (July 5 – 9).
-  * Tutorial 6a – Writing and Running an MCMC analysis (Huy/Luis)
+  * Tutorial 5a – Writing and Running an MCMC analysis (Huy/Luis)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1zc5cJG9pnuMEMxfiYWYRip78sAbd8jzm?usp=sharing)
-  * Tutorial 6b – Using Fisher Information for Single-cell Experiment Design (Zach/Huy)
+  * Tutorial 5b – Using Fisher Information for Single-cell Experiment Design (Zach/Huy)
