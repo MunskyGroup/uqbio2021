@@ -27,8 +27,9 @@ This repository contains the materials for the 1st Annual Undergraduate Quantita
   * Live Tutorial 0b – PySB (Carlos Lopez)
 
 * Module_1: Introduction to Single-Cell Optical Microscopy Experiments and Image Processing (June 7 – 11).
-  * Live Tutorial 1a – Single-particle tracking in Python (Luis)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1FcudIyndrXDOmYadUXlPgDOIP6yNP0ZZ?usp=sharing)
-  * Live Tutorial 1b – Single-cell segmentation in Python (Zach)
+  * Live Tutorial 1a – Single-cell segmentation in Python (Zach)
+  * Live Tutorial 1b – Single-particle tracking in Python (Luis)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1FcudIyndrXDOmYadUXlPgDOIP6yNP0ZZ?usp=sharing)
+
 
 * Module_2: Introduction to Multivariable Statistics and Machine Learning for Single-Cell Data (June 14 – 18).
   * Live Tutorial 2a – Basic Statistical Analyses (Huy)
