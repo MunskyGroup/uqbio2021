@@ -19,8 +19,8 @@ This repository contains the materials for the 1st Annual Undergraduate Quantita
   * Python basics 2 (loops, ranges, functions, lambdas, list comprehension)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1oMiuuyT0X_UBt9M0mU4klC_WTXCs2XOq?usp=sharing)
   * Python basics 3 (importing packages, classes/modules, os navigation, reading files)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1SxDI--nHoP7tkq9tMBVcvmqSD8NoZLOo?usp=sharing)
   * Python basics 4 (Numpy and Linear Algebra Review)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1UpYhbEogKW7T03Wz6-6sLg4TdEVYbPIP?usp=sharing)
-  * Python basics 6 (Colab Enviroment setup and navigation)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Z4KaQvTRLPsZ8-OHz7RzpieT3mgZVi1Q?usp=sharing)
-  * Python basics 7 (Visualization with matplotlib)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1hilQWOei8M1RJA5lJAX4Ea3i62Wv9eVi?usp=sharing)
+  * Python basics 5 (Colab Enviroment setup and navigation)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Z4KaQvTRLPsZ8-OHz7RzpieT3mgZVi1Q?usp=sharing)
+  * Python basics 6 (Visualization with matplotlib)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1hilQWOei8M1RJA5lJAX4Ea3i62Wv9eVi?usp=sharing)
 
   * Live Tutorial 0a - Basic Image manipulation in a Python interactive notebook (Luis)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1o3JJE4EjfW9P5ZITEeS5p8Ui60xV3etK?usp=sharing)
