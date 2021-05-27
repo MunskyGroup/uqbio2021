@@ -1,8 +1,7 @@
 
 
-<center><h1> uqbio 2021 </h1></center>
+<center><h1> Repository for the 1st Annual Undergraduate Quantitative Biology (UQ-bio) Summer School. </h1></center>
 
-## Repository for the 1st Annual Undergraduate Quantitative Biology (UQ-bio) Summer School.
 
 Authors: Dr. Brian Munsky, Michael May, Linda Forero, Luis Aguilera, William Raymond, Zachary Fox, and Huy D. Vo.
 
@@ -49,3 +48,7 @@ Processes (July 5 – 9).
   * Tutorial 5a – Writing and Running an MCMC analysis (Huy/Luis)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1zc5cJG9pnuMEMxfiYWYRip78sAbd8jzm?usp=sharing)
   * Tutorial 5b – Using Fisher Information for Single-cell Experiment Design (Zach/Huy)
+
+## Databases
+
+To access the databases needed for the exercises and final projects use the links listed in this notebook: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1wWRbasEqYkO-ONK0HK0WFHEGD93QGWHf?usp=sharing)
