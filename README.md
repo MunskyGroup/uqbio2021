@@ -7,6 +7,10 @@ Authors: Dr. Brian Munsky, Michael May, Linda Forero, Luis Aguilera, William Ray
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+![Intro](https://github.com/MunskyGroup/uqbio2021/blob/templates/intro.png)
+
+https://github.com/MunskyGroup/uqbio2021/blob/2f39ca51d0a334123da3b599ac2f95780a0744c2/templates/README.md
+
 ## Description
 
 This repository contains the materials for the 1st Annual Undergraduate Quantitative Biology (UQ-bio) Summer School.
