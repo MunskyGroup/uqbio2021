@@ -54,4 +54,4 @@ Processes (July 5 – 9).
 
 ## Databases
 
-To access the databases needed for the exercises and final projects use the links listed in this notebook: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1wWRbasEqYkO-ONK0HK0WFHEGD93QGWHf?usp=sharing)
+To access links to the databases will be provided by the instructors. 
