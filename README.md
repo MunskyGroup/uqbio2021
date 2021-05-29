@@ -52,6 +52,11 @@ Processes (July 5 – 9).
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1zc5cJG9pnuMEMxfiYWYRip78sAbd8jzm?usp=sharing)
   * Tutorial 5b – Using Fisher Information for Single-cell Experiment Design (Zach/Huy)
 
-## Databases
 
-To access links to the databases will be provided by the instructors. 
+## Templates for Projects Notebooks
+* Project_1: Single-cell yeast response dynamics. [![Open In Colab]()
+* Project_2: Single-cell RNA FISH analysis. [![Open In Colab]()
+* Project_3: Single mRNA translation dynamics. [![Open In Colab]()
+
+## Databases
+To access links to the databases will be provided by the instructors.
