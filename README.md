@@ -3,7 +3,7 @@
 <center><h1> Repository for the 1st Annual Undergraduate Quantitative Biology (UQ-bio) Summer School. </h1></center>
 
 
-Authors: Dr. Brian Munsky, Michael May, Linda Forero, Luis Aguilera, William Raymond, Zachary Fox, and Huy D. Vo.
+<strong>Authors:</strong> Dr. Brian Munsky, Michael May, Linda Forero, Luis Aguilera, William Raymond, Zachary Fox, and Huy D. Vo.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -17,7 +17,7 @@ This repository contains the materials for the 1st Annual Undergraduate Quantita
 ***
 ## Modules
 ___
-* Module_0: Bootcamp Basics to get Started with Scientific Computing in Python (June 1-4).
+* <strong>Module 0:</strong> Bootcamp Basics to get Started with Scientific Computing in Python (June 1-4).
 
   * Python basics 1 (int, str, iterables, slicing)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/167EXFCoYCTcqGqljwddWRF1nwTTc_eig?usp=sharing)
   * Python basics 2 (loops, ranges, functions, lambdas, list comprehension)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1oMiuuyT0X_UBt9M0mU4klC_WTXCs2XOq?usp=sharing)
@@ -30,28 +30,28 @@ ___
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1o3JJE4EjfW9P5ZITEeS5p8Ui60xV3etK?usp=sharing)
   * Live Tutorial 0b – PySB (Carlos Lopez)
 ___
-* Module_1: Introduction to Single-Cell Optical Microscopy Experiments and Image Processing (June 7 – 11).
+* <strong>Module 1:</strong> Introduction to Single-Cell Optical Microscopy Experiments and Image Processing (June 7 – 11).
   * Live Tutorial 1a – Single-cell segmentation in Python (Zach Fox) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1sxTz46Nwaol15dCML3ZGqoV46ehBJtMP?usp=sharing)
   * Live Tutorial 1b – Single-particle tracking in Python (Luis Aguilera)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1FcudIyndrXDOmYadUXlPgDOIP6yNP0ZZ?usp=sharing)
 
 ___
-* Module_2: Introduction to Multivariable Statistics and Machine Learning for Single-Cell Data (June 14 – 18).
+* <strong>Module 2:</strong> Introduction to Multivariable Statistics and Machine Learning for Single-Cell Data (June 14 – 18).
   * Live Tutorial 2a – Basic Statistical Analyses (Huy Vo)
   * Live Tutorial 2b – Machine Learning (Will/Zach) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1SOR-9YmcLehQyIIDKJZW6kAtcjhKwn2O?usp=sharing)
   * Machine Learning with a Simulated Nascent Chain Dataset [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1rmTNVq6erTA0M8YFPz0uF7h5A6L7-M4J?usp=sharing)
 
 ___
-* Module_3: Introduction to Stochastic Simulations of Single-Cell Gene Regulatory Processes (June 21 – 25).
+* <strong>Module 3:</strong> Introduction to Stochastic Simulations of Single-Cell Gene Regulatory Processes (June 21 – 25).
   * Tutorial 3a – Write your own stochastic simulation (Lisa Weber)
   * Tutorial 3b – TASEP Models (Will Raymond)
 
 ___
-* Module_4: Introduction to Master Equation Analyses of Single-Cell Gene Regulatory Processes (June 28 – July 2).
+* <strong>Module 4:</strong> Introduction to Master Equation Analyses of Single-Cell Gene Regulatory Processes (June 28 – July 2).
   * Tutorial 4a – Writing and Running an FSP analysis (Michael May)
   * Tutorial 4b – Computing Likelihood of Single-cell data using FSP (Zach/Huy)
 
 ___
-* Module_5: Introduction to Monte Carlo Methods to Infer Models for Noisy Single-Cell
+* <strong>Module 5:</strong> Introduction to Monte Carlo Methods to Infer Models for Noisy Single-Cell
 Processes (July 5 – 9).
   * Tutorial 5a – Writing and Running an MCMC analysis (Huy/Luis)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1zc5cJG9pnuMEMxfiYWYRip78sAbd8jzm?usp=sharing)
@@ -59,9 +59,9 @@ Processes (July 5 – 9).
 ***
 
 ## Templates for Projects Notebooks
-* Project_1: Single-cell yeast response dynamics. ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](add link)
-* Project_2: Single-cell RNA FISH analysis.  ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](add link)
-* Project_3: Single mRNA translation dynamics.  ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](add link)
+* <strong>Project 1:</strong> Single-cell yeast response dynamics. ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](add link)
+* <strong>Project 2:</strong>  Single-cell RNA FISH analysis.  ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](add link)
+* <strong>Project 3:</strong>  Single mRNA translation dynamics.  ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](add link)
 
 ***
 ## Databases
