@@ -28,7 +28,7 @@ ___
  ---
   * Live Tutorial 0a - Basic Image manipulation in a Python interactive notebook (Luis Aguilera)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1o3JJE4EjfW9P5ZITEeS5p8Ui60xV3etK?usp=sharing)
-  * Live Tutorial 0b – PySB (Carlos Lopez)
+  * Live Tutorial 0b – PySB (Carlos Lopez) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lolab-vu/pysb-tutorials/HEAD)
 ___
 * <strong>Module 1:</strong> Introduction to Single-Cell Optical Microscopy Experiments and Image Processing (June 7 – 11).
   * Live Tutorial 1a – Single-cell segmentation in Python (Zach Fox) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1sxTz46Nwaol15dCML3ZGqoV46ehBJtMP?usp=sharing)
