@@ -61,7 +61,8 @@ Processes (July 5 – 9).
 
 ## Templates for Projects Notebooks
 * <strong>Project 1:</strong> Single-cell yeast response dynamics. ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](add link)
-* <strong>Project 2:</strong>  Single-cell RNA FISH analysis.  ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](add link)
+* <strong>Project 2:</strong>  Single-cell RNA FISH analysis.  
+   - Extracting quantitative information from single-cell RNA-FISH images [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1BMgfe8jsX9xsfIIppyXTj8q7d8YXw8wy?usp=sharing)
 * <strong>Project 3:</strong>  Single mRNA translation dynamics.  ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](add link)
 
 ***
