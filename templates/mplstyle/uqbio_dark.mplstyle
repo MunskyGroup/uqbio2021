@@ -22,7 +22,7 @@ ytick.major.width:1.2
 
 figure.dpi:120
 figure.facecolor: 1e1c20
-figre.edgecolor: 1e1c20
+figure.edgecolor: 1e1c20
 axes.facecolor: 1e1c20
 
 patch.edgecolor: e9f7fa
