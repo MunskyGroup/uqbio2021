@@ -40,6 +40,7 @@ ___
 ___
 * <strong>Module 2:</strong> Introduction to Multivariable Statistics and Machine Learning for Single-Cell Data (June 14 – 18).
   * Live Tutorial 2a – Basic Statistical Analyses (Huy Vo)
+     - Supplementary notebook 2a1 - Explore basic univariate probability distributions. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1y-vQeSG90wnd-0nj9EuSMuwvVbpWeQKw?usp=sharing)
   * Live Tutorial 2b – Machine Learning (Will/Zach) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1SOR-9YmcLehQyIIDKJZW6kAtcjhKwn2O?usp=sharing)
   * Machine Learning with a Simulated Nascent Chain Dataset [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1rmTNVq6erTA0M8YFPz0uF7h5A6L7-M4J?usp=sharing)
 
