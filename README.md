@@ -33,11 +33,16 @@ ___
 ___
 * <strong>Module 1:</strong> Introduction to Single-Cell Optical Microscopy Experiments and Image Processing (June 7 – 11).
   * Live Tutorial 1a – Single-cell segmentation in Python (Zach Fox) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1sxTz46Nwaol15dCML3ZGqoV46ehBJtMP?usp=sharing)
-  * Live Tutorial 1b – Single-particle tracking in Python (Luis Aguilera)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1FcudIyndrXDOmYadUXlPgDOIP6yNP0ZZ?usp=sharing)
+  * Live Tutorial 1b – Single-particle tracking in Python (Luis Aguilera)  
+    - Part I.  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]( https://colab.research.google.com/drive/1qYeZLnYlk7l4W2-6oQj96CMrQQjqAcpg?usp=sharing)
+    - Part II.  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]( https://colab.research.google.com/drive/1FcudIyndrXDOmYadUXlPgDOIP6yNP0ZZ?usp=sharing)
 
 ___
 * <strong>Module 2:</strong> Introduction to Multivariable Statistics and Machine Learning for Single-Cell Data (June 14 – 18).
   * Live Tutorial 2a – Basic Statistical Analyses (Huy Vo)
+     - Explore basic univariate probability distributions. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1y-vQeSG90wnd-0nj9EuSMuwvVbpWeQKw?usp=sharing)
+     - Visualization and summary statistics for multivariate and time-series data. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1puWyLfbxooDcjrNwzBIydFHQp_HcEeuZ?usp=sharing)
+     - Linear Regression: estimating free diffusion coefficient from mean squared displacements. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1vYDFjdKw9L8MIl9PmtvBCRlaTIifZFWn?usp=sharing)
   * Live Tutorial 2b – Machine Learning (Will/Zach) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1SOR-9YmcLehQyIIDKJZW6kAtcjhKwn2O?usp=sharing)
   * Machine Learning with a Simulated Nascent Chain Dataset [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1rmTNVq6erTA0M8YFPz0uF7h5A6L7-M4J?usp=sharing)
 
@@ -59,11 +64,13 @@ Processes (July 5 – 9).
   * Tutorial 5b – Using Fisher Information for Single-cell Experiment Design (Zach/Huy)
 ***
 
-## Templates for Projects Notebooks
+## Projects Notebooks
 * <strong>Project 1:</strong> Single-cell yeast response dynamics. ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](add link)
 * <strong>Project 2:</strong>  Single-cell RNA FISH analysis.  
    - Extracting quantitative information from single-cell RNA-FISH images [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1BMgfe8jsX9xsfIIppyXTj8q7d8YXw8wy?usp=sharing)
-* <strong>Project 3:</strong>  Single mRNA translation dynamics.  ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](add link)
+* <strong>Project 3:</strong>  Single mRNA translation dynamics,
+  - Week 1.  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]( https://colab.research.google.com/drive/1aKyCPFvfdntDvTfE3kdg6bG9vyNQgfjF?usp=sharing)
+  - Week 1 - SOLUTIONS.  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]( https://colab.research.google.com/drive/1pY7WJSNzWEVLmUWPDnDiD5XWyCqxzsKO?usp=sharing)
 
 ***
 ## Databases
