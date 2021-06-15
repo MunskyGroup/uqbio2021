@@ -43,8 +43,10 @@ ___
      - Explore basic univariate probability distributions. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1y-vQeSG90wnd-0nj9EuSMuwvVbpWeQKw?usp=sharing)
      - Visualization and summary statistics for multivariate and time-series data. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1puWyLfbxooDcjrNwzBIydFHQp_HcEeuZ?usp=sharing)
      - Linear Regression: estimating free diffusion coefficient from mean squared displacements. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1vYDFjdKw9L8MIl9PmtvBCRlaTIifZFWn?usp=sharing)
-  * Live Tutorial 2b – Machine Learning (Will/Zach) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1SOR-9YmcLehQyIIDKJZW6kAtcjhKwn2O?usp=sharing)
-  * Machine Learning with a Simulated Nascent Chain Dataset [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1rmTNVq6erTA0M8YFPz0uF7h5A6L7-M4J?usp=sharing)
+  * Live Tutorial 2b - Machine Learning with a Simulated Nascent Chain Dataset (Will/Zach)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1rmTNVq6erTA0M8YFPz0uF7h5A6L7-M4J?usp=sharing)
+     - Example Simple Perceptron [![Open In Colab](https://colab.research.google.com/drive/1zGXGn7Ge3tpf823qK40g54Jmk0PnVuM6?usp=sharing)
+     - Example Architectures with Oxford Flowers 17[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1SOR-9YmcLehQyIIDKJZW6kAtcjhKwn2O?usp=sharing)
+     - Example Autoencoder with Oxford Flowers 17 [![Open In Colab](https://colab.research.google.com/drive/1PAQA0CUoQmpOY49sBwlnNL36_hD6aJKa?usp=sharing)
 
 ___
 * <strong>Module 3:</strong> Introduction to Stochastic Simulations of Single-Cell Gene Regulatory Processes (June 21 – 25).
