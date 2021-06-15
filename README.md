@@ -47,6 +47,7 @@ ___
      - Example Simple Perceptron [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1zGXGn7Ge3tpf823qK40g54Jmk0PnVuM6?usp=sharing)
      - Example Architectures with Oxford Flowers 17[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1SOR-9YmcLehQyIIDKJZW6kAtcjhKwn2O?usp=sharing)
      - Example Autoencoder with Oxford Flowers 17 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1PAQA0CUoQmpOY49sBwlnNL36_hD6aJKa?usp=sharing)
+     - Example FFNN boundary visualization [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1633ixnVJspfg6Vuew7tyPEJb1e0Jy_rD?usp=sharing)
 
 ___
 * <strong>Module 3:</strong> Introduction to Stochastic Simulations of Single-Cell Gene Regulatory Processes (June 21 – 25).
