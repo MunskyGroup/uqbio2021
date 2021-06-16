@@ -69,12 +69,23 @@ Processes (July 5 – 9).
 
 ## Projects Notebooks
 * <strong>Project 1:</strong> Single-cell yeast response dynamics. ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](add link)
+___
 * <strong>Project 2:</strong>  Single-cell RNA FISH analysis.  
    - Extracting quantitative information from single-cell RNA-FISH images [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1BMgfe8jsX9xsfIIppyXTj8q7d8YXw8wy?usp=sharing)
+___
 * <strong>Project 3:</strong>  Single mRNA translation dynamics,
-  - Week 1.  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]( https://colab.research.google.com/drive/1aKyCPFvfdntDvTfE3kdg6bG9vyNQgfjF?usp=sharing)
-  - Week 1 - SOLUTIONS.  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]( https://colab.research.google.com/drive/1pY7WJSNzWEVLmUWPDnDiD5XWyCqxzsKO?usp=sharing)
-
+  - <strong>Week 1:</strong>  - Homework - Image processing.  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]( https://colab.research.google.com/drive/1aKyCPFvfdntDvTfE3kdg6bG9vyNQgfjF?usp=sharing)
+  - <strong>Week 1:</strong>  - Homework (SOLUTIONS).  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]( https://colab.research.google.com/drive/1pY7WJSNzWEVLmUWPDnDiD5XWyCqxzsKO?usp=sharing)
+  - <strong>Week 2:</strong>  - Homework - Machine Learning.  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]( )
+  - <strong>Week 2:</strong> - Homework (SOLUTIONS).  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]( )
+  - <strong>Week 3:</strong>  - Homework - Stochastic Simulations.  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]( )
+  - <strong>Week 3:</strong>  - Homework (SOLUTIONS).  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]( )
+  - <strong>Week 4:</strong> - Homework - Parameter inference.  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]( )
+  - <strong>Week 4:</strong>  - Homework (SOLUTIONS).  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]( )
+  - <strong>Week 5:</strong>  - Homework. Final Project Presentation. Work with your team on your final Colab notebook and presentation following these [guideline](https://github.com/MunskyGroup/uqbio2021/blob/main/uq_bio2021_projects.pdf).
 ***
+
+
+
 ## Databases
 To access links to the databases will be provided by the instructors.
