@@ -76,7 +76,7 @@ ___
 * <strong>Project 3:</strong>  Single mRNA translation dynamics,
   - <strong>Week 1:</strong>  - Homework - Image processing.  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]( https://colab.research.google.com/drive/1aKyCPFvfdntDvTfE3kdg6bG9vyNQgfjF?usp=sharing)
   - <strong>Week 1:</strong>  - Homework (SOLUTIONS).  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]( https://colab.research.google.com/drive/1pY7WJSNzWEVLmUWPDnDiD5XWyCqxzsKO?usp=sharing)
-  - <strong>Week 2:</strong>  - Homework - Statistics / Machine Learning.  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]( )
+  - <strong>Week 2:</strong>  - Homework - Statistics / Machine Learning.  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1SRzBYR_AtGIJQkh-l_1j3RwUpUNyeuKs?usp=sharing )
   - <strong>Week 2:</strong> - Homework (SOLUTIONS).  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]( )
   - <strong>Week 3:</strong>  - Homework - Stochastic Simulations.  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]( )
   - <strong>Week 3:</strong>  - Homework (SOLUTIONS).  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]( )
