@@ -75,13 +75,13 @@ ___
 ___
 * <strong>Project 3:</strong>  Single mRNA translation dynamics,
   - <strong>Week 1:</strong>  - Homework - Image processing.  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]( https://colab.research.google.com/drive/1aKyCPFvfdntDvTfE3kdg6bG9vyNQgfjF?usp=sharing)
-      - Homework - Image processing (<strong>solutions</strong> ).  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]( https://colab.research.google.com/drive/1pY7WJSNzWEVLmUWPDnDiD5XWyCqxzsKO?usp=sharing)
+      - Homework - Image processing (<strong>solutions</strong>).  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]( https://colab.research.google.com/drive/1pY7WJSNzWEVLmUWPDnDiD5XWyCqxzsKO?usp=sharing)
   - <strong>Week 2:</strong>  - Homework - Statistics / Machine Learning.  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1SRzBYR_AtGIJQkh-l_1j3RwUpUNyeuKs?usp=sharing )
-      - Homework - Statistics / Machine Learning (<strong>solutions</strong> ).  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]( )
+      - Homework - Statistics / Machine Learning (<strong>solutions</strong>).  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]( )
   - <strong>Week 3:</strong>  - Homework - Stochastic Simulations.  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]( )
-      - Homework - Stochastic Simulations (<strong>solutions</strong> ).  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]( )
+      - Homework - Stochastic Simulations (<strong>solutions</strong>).  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]( )
   - <strong>Week 4:</strong> - Homework - Parameter inference.  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]( )
-      - Homework - Parameter inference (<strong>solutions</strong> ).  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]( )
+      - Homework - Parameter inference (<strong>solutions</strong>).  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]( )
   - <strong>Week 5:</strong>  - Homework. Work with your team on your final project presentation. For the final project report follow these [guidelines](https://github.com/MunskyGroup/uqbio2021/blob/main/uq_bio2021_projects.pdf).
 ***
 
