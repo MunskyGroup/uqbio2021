@@ -71,7 +71,8 @@ Processes (July 5 – 9).
 * <strong>Project 1:</strong> Single-cell yeast response dynamics. ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](add link)
 ___
 * <strong>Project 2:</strong>  Single-cell RNA FISH analysis.  
-   - Extracting quantitative information from single-cell RNA-FISH images [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1BMgfe8jsX9xsfIIppyXTj8q7d8YXw8wy?usp=sharing)
+   - Week 0-2: Extracting quantitative information from single-cell RNA-FISH images [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1BMgfe8jsX9xsfIIppyXTj8q7d8YXw8wy?usp=sharing)
+   - Week 3: Simulating stochastic gene expression [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1FBB54T8GtXV5XU1MV6N-o_JDUbktc232?usp=sharing)
 ___
 * <strong>Project 3:</strong>  Single mRNA translation dynamics,
   - <strong>Week 1:</strong>  - Homework - Image processing.  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]( https://colab.research.google.com/drive/1aKyCPFvfdntDvTfE3kdg6bG9vyNQgfjF?usp=sharing)
