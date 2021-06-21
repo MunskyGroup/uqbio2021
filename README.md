@@ -3,7 +3,7 @@
 <center><h1> Repository for the 1st Annual Undergraduate Quantitative Biology (UQ-bio) Summer School. </h1></center>
 
 
-<strong>Authors:</strong> Dr. Brian Munsky, Michael May, Linda Forero, Luis Aguilera, William Raymond, Zachary Fox, and Huy D. Vo.
+<strong>Authors:</strong> Dr. Brian Munsky, Michael May, Linda Forero, Luis Aguilera, William Raymond, Zachary Fox, Lisa Weber, and Huy D. Vo.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -43,12 +43,15 @@ ___
      - Explore basic univariate probability distributions. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1y-vQeSG90wnd-0nj9EuSMuwvVbpWeQKw?usp=sharing)
      - Visualization and summary statistics for multivariate and time-series data. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1puWyLfbxooDcjrNwzBIydFHQp_HcEeuZ?usp=sharing)
      - Linear Regression: estimating free diffusion coefficient from mean squared displacements. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1vYDFjdKw9L8MIl9PmtvBCRlaTIifZFWn?usp=sharing)
-  * Live Tutorial 2b – Machine Learning (Will/Zach) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1SOR-9YmcLehQyIIDKJZW6kAtcjhKwn2O?usp=sharing)
-  * Machine Learning with a Simulated Nascent Chain Dataset [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1rmTNVq6erTA0M8YFPz0uF7h5A6L7-M4J?usp=sharing)
+  * Live Tutorial 2b - Machine Learning with a Simulated Nascent Chain Dataset (Will/Zach)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1rmTNVq6erTA0M8YFPz0uF7h5A6L7-M4J?usp=sharing)
+     - Example Simple Perceptron [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1zGXGn7Ge3tpf823qK40g54Jmk0PnVuM6?usp=sharing)
+     - Example Architectures with Oxford Flowers 17[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1SOR-9YmcLehQyIIDKJZW6kAtcjhKwn2O?usp=sharing)
+     - Example Autoencoder with Oxford Flowers 17 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1PAQA0CUoQmpOY49sBwlnNL36_hD6aJKa?usp=sharing)
+     - Example FFNN boundary visualization [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1633ixnVJspfg6Vuew7tyPEJb1e0Jy_rD?usp=sharing)
 
 ___
 * <strong>Module 3:</strong> Introduction to Stochastic Simulations of Single-Cell Gene Regulatory Processes (June 21 – 25).
-  * Tutorial 3a – Write your own stochastic simulation (Lisa Weber)
+  * Tutorial 3a – Write your own stochastic simulation (Lisa Weber) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_uwxuh8JtgPBUI3M0G3xUkSjWoBOh_Qe?usp=sharing)
   * Tutorial 3b – TASEP Models (Will Raymond)
 
 ___
@@ -66,12 +69,21 @@ Processes (July 5 – 9).
 
 ## Projects Notebooks
 * <strong>Project 1:</strong> Single-cell yeast response dynamics. ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](add link)
+___
 * <strong>Project 2:</strong>  Single-cell RNA FISH analysis.  
    - Extracting quantitative information from single-cell RNA-FISH images [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1BMgfe8jsX9xsfIIppyXTj8q7d8YXw8wy?usp=sharing)
+___
 * <strong>Project 3:</strong>  Single mRNA translation dynamics,
-  - Week 1.  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]( https://colab.research.google.com/drive/1aKyCPFvfdntDvTfE3kdg6bG9vyNQgfjF?usp=sharing)
-  - Week 1 - SOLUTIONS.  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]( https://colab.research.google.com/drive/1pY7WJSNzWEVLmUWPDnDiD5XWyCqxzsKO?usp=sharing)
-
+  - <strong>Week 1:</strong>  - Homework - Image processing.  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]( https://colab.research.google.com/drive/1aKyCPFvfdntDvTfE3kdg6bG9vyNQgfjF?usp=sharing)
+      - Homework - Image processing (<strong>solutions</strong>).  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]( https://colab.research.google.com/drive/1pY7WJSNzWEVLmUWPDnDiD5XWyCqxzsKO?usp=sharing)
+  - <strong>Week 2:</strong>  - Homework - Statistics / Machine Learning.  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1SRzBYR_AtGIJQkh-l_1j3RwUpUNyeuKs?usp=sharing )
+      - Homework - Statistics / Machine Learning (<strong>solutions</strong>).  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1d8qVqOpIliyZJtBbeAAY-iNpemF_MZx1?usp=sharing )
+  - <strong>Week 3:</strong>  - Homework - Stochastic Simulations.  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]( )
+      - Homework - Stochastic Simulations (<strong>solutions</strong>).  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]( )
+  - <strong>Week 4:</strong> - Homework - Parameter inference.  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]( )
+      - Homework - Parameter inference (<strong>solutions</strong>).  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]( )
+  - <strong>Week 5:</strong>  - Homework. Work with your team on your final project presentation. For the final project report follow these [guidelines](https://github.com/MunskyGroup/uqbio2021/blob/main/uq_bio2021_projects.pdf).
 ***
+
 ## Databases
 To access links to the databases will be provided by the instructors.
