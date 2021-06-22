@@ -79,8 +79,8 @@ ___
       - Homework - Image processing (<strong>solutions</strong>).  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]( https://colab.research.google.com/drive/1pY7WJSNzWEVLmUWPDnDiD5XWyCqxzsKO?usp=sharing)
   - <strong>Week 2:</strong>  - Homework - Statistics / Machine Learning.  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1SRzBYR_AtGIJQkh-l_1j3RwUpUNyeuKs?usp=sharing )
       - Homework - Statistics / Machine Learning (<strong>solutions</strong>).  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1d8qVqOpIliyZJtBbeAAY-iNpemF_MZx1?usp=sharing )
-  - <strong>Week 3:</strong>  - Homework - Stochastic Simulations.  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]( )
-      - Homework - Stochastic Simulations (<strong>solutions</strong>).  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]( )
+  - <strong>Week 3:</strong>  - Homework - Stochastic Simulations.  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/144OssuB-7CL3mIzarMoBpOtyaWpZEmCB?usp=sharing)
+      - Homework - Stochastic Simulation (<strong>solutions</strong>).  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ua7MX3Cr5qfIVsTdIWzM0fC7KdvdElyO?usp=sharing)
   - <strong>Week 4:</strong> - Homework - Parameter inference.  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]( )
       - Homework - Parameter inference (<strong>solutions</strong>).  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]( )
   - <strong>Week 5:</strong>  - Homework. Work with your team on your final project presentation. For the final project report follow these [guidelines](https://github.com/MunskyGroup/uqbio2021/blob/main/uq_bio2021_projects.pdf).
