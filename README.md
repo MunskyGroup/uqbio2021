@@ -52,7 +52,7 @@ ___
 ___
 * <strong>Module 3:</strong> Introduction to Stochastic Simulations of Single-Cell Gene Regulatory Processes (June 21 – 25).
   * Tutorial 3a – Write your own stochastic simulation (Lisa Weber) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_uwxuh8JtgPBUI3M0G3xUkSjWoBOh_Qe?usp=sharing)
-  * Tutorial 3b – TASEP Models (Will Raymond)
+  * Tutorial 3b – TASEP Models (Will Raymond) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1UUkCzF6nRqESGZXCKrK0UKOCVP1Mq9Ld?usp=sharing) 
 
 ___
 * <strong>Module 4:</strong> Introduction to Master Equation Analyses of Single-Cell Gene Regulatory Processes (June 28 – July 2).
