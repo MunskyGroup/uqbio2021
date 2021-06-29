@@ -74,7 +74,7 @@ ___
    - __Weeks 0-2__: Extracting quantitative information from single-cell RNA-FISH images [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1BMgfe8jsX9xsfIIppyXTj8q7d8YXw8wy?usp=sharing)
    - __Week 3__: Simulating stochastic gene expression [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1FBB54T8GtXV5XU1MV6N-o_JDUbktc232?usp=sharing)
    - __Week 4__: 
-     - Part A: FSP for bursting gene model [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1My3K0r2DXXjdBALHPQw8VHKo5ZxABWBo#scrollTo=Gh1_fysGVP9r)
+     - Part A: FSP for bursting gene model [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1My3K0r2DXXjdBALHPQw8VHKo5ZxABWBo?usp=sharing)
 ___
 * <strong>Project 3:</strong>  Single mRNA translation dynamics,
   - <strong>Week 1:</strong>  - Homework - Image processing.  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]( https://colab.research.google.com/drive/1aKyCPFvfdntDvTfE3kdg6bG9vyNQgfjF?usp=sharing)
