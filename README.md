@@ -57,7 +57,7 @@ ___
 ___
 * <strong>Module 4:</strong> Introduction to Master Equation Analyses of Single-Cell Gene Regulatory Processes (June 28 – July 2).
   * Tutorial 4a – Writing and Running an FSP analysis (Michael May) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1kzF6seLwwQ4tGMqMP5wWxfbNtxxTm5Gx?usp=sharing)
-  * Tutorial 4b – Computing Likelihood of Single-cell data using FSP (Zach/Huy)[![Open In Colab](https://colab.research.google.com/drive/11UUXs2-2WMo0tbXKABpPkwuMPN7H-XMx#scrollTo=sZ2zyqCNYJVA)
+  * Tutorial 4b – Computing Likelihood of Single-cell data using FSP (Zach/Huy)[![Open In Colab](https://colab.research.google.com/drive/11UUXs2-2WMo0tbXKABpPkwuMPN7H-XMx?usp=sharing)
 
 ___
 * <strong>Module 5:</strong> Introduction to Monte Carlo Methods to Infer Models for Noisy Single-Cell
