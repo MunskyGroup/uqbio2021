@@ -62,9 +62,9 @@ ___
 ___
 * <strong>Module 5:</strong> Introduction to Monte Carlo Methods to Infer Models for Noisy Single-Cell
 Processes (July 5 – 9).
-  * Tutorial 5a – Writing and Running an MCMC analysis (Huy/Luis)
+  * Tutorial 5a – Basics of Bayesian Analysis and MCMC algorithms (Steve Presse) 
+  * Tutorial 5b - Writing and Running an MCMC analysis (Huy Vo)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1zc5cJG9pnuMEMxfiYWYRip78sAbd8jzm?usp=sharing)
-  * Tutorial 5b – Using Fisher Information for Single-cell Experiment Design (Zach/Huy)
 ***
 
 ## Projects Notebooks
