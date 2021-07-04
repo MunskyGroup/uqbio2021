@@ -76,6 +76,8 @@ ___
    - __Week 4__: 
      - Part A: FSP for bursting gene model [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1My3K0r2DXXjdBALHPQw8VHKo5ZxABWBo?usp=sharing)
        - Solution to Part A: [https://colab.research.google.com/drive/1HWhBk8CwwZl77BTTt6oYomXTGcP5qjmi?usp=sharing]
+     - Part B: Computing smFISH log-likelihood with FSP [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1hsz2H_gGvOxl2De-2r77qfP-tBFkEJC1?usp=sharing)
+       - Solution to Part B: [https://colab.research.google.com/drive/1krPeCWiAVwNuuoXrTvqrV-AOnu261Dp3]
 ___
 * <strong>Project 3:</strong>  Single mRNA translation dynamics,
   - <strong>Week 1:</strong>  - Homework - Image processing.  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]( https://colab.research.google.com/drive/1aKyCPFvfdntDvTfE3kdg6bG9vyNQgfjF?usp=sharing)
