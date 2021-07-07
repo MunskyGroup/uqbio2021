@@ -64,7 +64,7 @@ ___
 Processes (July 5 – 9).
   * Tutorial 5a – Basics of Bayesian Analysis and MCMC algorithms (Steve Presse) 
   * Tutorial 5b - Writing and Running an MCMC analysis (Huy Vo)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1zc5cJG9pnuMEMxfiYWYRip78sAbd8jzm?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1NEoITkInSKBCRzD0kt8dgw-Z2KmvWXC0?usp=sharing)
 ***
 
 ## Projects Notebooks
